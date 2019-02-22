@@ -65,10 +65,3 @@ while (save_model not in ["Y", "N"]):
 
 
 input("press enter to quit\n")
-
-
-# TODO
-# ask if we want to save at the end
-# at beginning if models are available as if we want to load...if
-# multiple saved then ask which one to load
-# add ability to tie into tensorboard
